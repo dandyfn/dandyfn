@@ -41,7 +41,7 @@ Saya mahasiswa **Fakultas Ilmu Komputer, Universitas Brawijaya**, yang aktif men
 |:--:|:--|
 | 2026 – sekarang | **S2 Ilmu Komputer**, Universitas Brawijaya |
 | 2023 – sekarang | **S1 Pendidikan Teknologi Informasi**, Universitas Brawijaya |
-| 2019 – 2022 | SMAN 3 Kediri (IPA) |
+
 
 ---
 
@@ -49,35 +49,44 @@ Saya mahasiswa **Fakultas Ilmu Komputer, Universitas Brawijaya**, yang aktif men
 
 <p><b>COMPUTER NETWORKS</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Cisco-0B0820?style=for-the-badge&logo=cisco&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/EVE--NG-0B0820?style=for-the-badge&logoColor=D946EF"/>
-  <img src="https://img.shields.io/badge/Wireshark-0B0820?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-  <img src="https://img.shields.io/badge/GNS3-0B0820?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WinSCP-0B0820?style=for-the-badge"/>
+  <img src="assets/skills/cisco.png" width="88" alt="cisco"/>
+  <img src="assets/skills/eve-ng.png" width="88" alt="eve-ng"/>
+  <img src="assets/skills/wireshark.png" width="88" alt="wireshark"/>
+  <img src="assets/skills/gns3.png" width="88" alt="gns3"/>
+  <img src="assets/skills/winscp.png" width="88" alt="winscp"/>
 </p>
 
 <p><b>TECH EDUCATION</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Moodle-0B0820?style=for-the-badge&logo=moodle&logoColor=F98012"/>
-  <img src="https://img.shields.io/badge/Canva-0B0820?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
-  <img src="https://img.shields.io/badge/GDevelop-0B0820?style=for-the-badge"/>
+  <img src="assets/skills/moodle.png" width="88" alt="moodle"/>
+  <img src="assets/skills/canva.png" width="88" alt="canva"/>
+  <img src="assets/skills/gdevelop.png" width="88" alt="gdevelop"/>
 </p>
 
 <p><b>PROGRAMMING & DATABASE</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,nextjs,html,css,mysql,python,docker,vscode,idea&perline=11" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/DBeaver-0B0820?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="assets/skills/java.png" width="88" alt="java"/>
+  <img src="assets/skills/php.png" width="88" alt="php"/>
+  <img src="assets/skills/laravel.png" width="88" alt="laravel"/>
+  <img src="assets/skills/nextjs.png" width="88" alt="nextjs"/>
+  <img src="assets/skills/html.png" width="88" alt="html"/>
+  <img src="assets/skills/css.png" width="88" alt="css"/>
+  <img src="assets/skills/mysql.png" width="88" alt="mysql"/>
+  <img src="assets/skills/python.png" width="88" alt="python"/>
+  <img src="assets/skills/docker.png" width="88" alt="docker"/>
+  <img src="assets/skills/dbeaver.png" width="88" alt="dbeaver"/>
+  <img src="assets/skills/vscode.png" width="88" alt="vscode"/>
+  <img src="assets/skills/intellij.png" width="88" alt="intellij"/>
 </p>
 
 <p><b>OPERATING SYSTEM</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux&perline=3" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux_Mint-0B0820?style=for-the-badge&logo=linuxmint&logoColor=87CF3E"/>
-  <img src="https://img.shields.io/badge/VMware-0B0820?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-0B0820?style=for-the-badge&logo=virtualbox&logoColor=2F61B4"/>
+  <img src="assets/skills/debian.png" width="88" alt="debian"/>
+  <img src="assets/skills/ubuntu.png" width="88" alt="ubuntu"/>
+  <img src="assets/skills/linux.png" width="88" alt="linux"/>
+  <img src="assets/skills/linuxmint.png" width="88" alt="linuxmint"/>
+  <img src="assets/skills/vmware.png" width="88" alt="vmware"/>
+  <img src="assets/skills/virtualbox.png" width="88" alt="virtualbox"/>
 </p>
 
 ---
